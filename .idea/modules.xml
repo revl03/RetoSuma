@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/RetoSuma.iml" filepath="$PROJECT_DIR$/.idea/RetoSuma.iml" />
-      <module fileurl="file://$PROJECT_DIR$/retoSumaRon/retoSumaRon.iml" filepath="$PROJECT_DIR$/retoSumaRon/retoSumaRon.iml" />
     </modules>
   </component>
 </project>
